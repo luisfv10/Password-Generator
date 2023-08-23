@@ -18,7 +18,7 @@
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O Password Generator é um gerador de senhas que cria de forma rapida e eficiente uma senha de forma automática sendo capaz de selecionar as características da senha (Tamanho e a capacidade de escolher com ou sem letras maiúscula, números e símbolos)
 
 - [Acesse o projeto finalizado, online](https://luisfv10.github.io/Password-Generator)
 
